@@ -58,7 +58,7 @@ dkms.conf
 *.log
 *.suo
 *.sln
-*.inf
+
 *.sys
 *.recipe
 *.cat

@@ -1,0 +1,21 @@
+Sites:
+https://docs.microsoft.com/en-us/windows-hardware/drivers/gettingstarted/writing-a-very-small-kmdf--driver (Hello World driver)
+
+https://docs.microsoft.com/en-us/windows-hardware/drivers/devtest/devcon(devcon)
+
+https://docs.microsoft.com/en-us/windows-hardware/drivers/download-the-wdk (WDK)
+
+https://docs.microsoft.com/en-us/windows-hardware/drivers/gettingstarted/provision-a-target-computer-wdk-8-1(Prvoision target computer)
+
+Important tools/topics:
+devcon- Can be used to install driver.
+
+WDK-Windows driver kit is used to develop, test, and deploy Windows drivers.
+
+KMDF- Kernel-Mode Driver Framework is a driver framework developed by Microsoft as a tool to aid driver developers create and maintain kernel mode device drivers for Windows
+
+
+Other:
+Target and host computers must be able to communicate with one another, check via ping command "ping 192.168.x.xx".
+
+
