@@ -7,6 +7,8 @@ https://docs.microsoft.com/en-us/windows-hardware/drivers/download-the-wdk (WDK)
 
 https://docs.microsoft.com/en-us/windows-hardware/drivers/gettingstarted/provision-a-target-computer-wdk-8-1(Prvoision target computer)
 
+https://www.osr.com/getting-started-writing-windows-drivers/(Good overall information)
+
 Important tools/topics:
 devcon- Can be used to install driver.
 
